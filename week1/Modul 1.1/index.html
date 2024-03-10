@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+	</head>
+	<body>
+		<form onsubmit="return formValidation(event)">
+			<label for="">Email</label>
+			<br />
+			<input type="text" id="email" />
+			<br />
+			<label for="">Password</label>
+			<br />
+			<input type="password" id="password" />
+			<br />
+			<br />
+			<input type="submit" value="submit" />
+		</form>
+		<script>
+			function formValidation(e) {
+				e.preventDefault();
+
+				let email = document.getElementById("email");
+				let password = document.getElementById("password");
+
+				emailRegEx = /[\w\d]+@[\w\d]+.[\w\d]+/;
+
+				if (!emailRegEx.test(email.value)) {
+					alert("Email salah");
+				}
+
+				if (password.value.length < 6) {
+					alert("Password kurang dari 6");
+				}
+
+				return;
+			}
+		</script>
+	</body>
+</html>

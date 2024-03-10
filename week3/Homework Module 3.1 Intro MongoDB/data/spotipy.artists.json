@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf3506b"
+  },
+  "genres": [
+    "Jazz",
+    "Classic"
+  ],
+  "name": "Artist 1",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf35074"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "name": "Artist 10",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf3506c"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "name": "Artist 2",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf35072"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "name": "Artist 8",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf3506d"
+  },
+  "genres": [
+    "Jazz",
+    "Classic"
+  ],
+  "name": "Artist 3",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf3506e"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "name": "Artist 4",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf35070"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "name": "Artist 6",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf35071"
+  },
+  "genres": [
+    "Jazz",
+    "Classic"
+  ],
+  "name": "Artist 7",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf3506f"
+  },
+  "genres": [
+    "Jazz",
+    "Classic"
+  ],
+  "name": "Artist 5",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ba9d799ea6d14e5cf35073"
+  },
+  "genres": [
+    "Jazz",
+    "Classic"
+  ],
+  "name": "Artist 9",
+  "date_of_birth": {
+    "$date": "2023-07-21T15:00:09.896Z"
+  },
+  "__v": 0
+}]
